@@ -1,3 +1,7 @@
+Datos de los estudiantes: 
+Estudiante 1: José Daniel Montero Gutiérrez (202012732): j.monterog@uniandes.edu.co 
+Estudiante 2: Jesed Alejandro Dominguez Piratova (202011992): j.dominguezp@uniandes.edu.co
+
 #ISIS1225 - Estructura de un proyecto
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
