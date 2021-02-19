@@ -1,3 +1,6 @@
+Sebastian Pinzon Sampedro-202013144-j.pinzons
+Nicolas Cano Cifuentes-201731916-n.cano
+
 #ISIS1225 - Estructura de un proyecto
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
